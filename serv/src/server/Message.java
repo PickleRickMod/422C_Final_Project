@@ -1,4 +1,4 @@
-package example.server;
+package server;
 
 class Message {
   String type;
